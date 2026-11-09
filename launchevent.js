@@ -10,7 +10,7 @@
 
 // ====== CONFIGURACIÓN ======
 var HORA_INICIO = { h: 7, m: 45 };   // 7:45 a.m.
-var HORA_FIN = { h: 14, m: 0 };     // 2:00 p.m.
+var HORA_FIN = { h: 17, m: 15 };     // 5:15 p.m.
 
 var MARCADOR = "tu jornada laboral y tu derecho";
 
