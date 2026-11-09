@@ -27,7 +27,7 @@ function log(msg) {
   try { console.log("[AvisoDesconexion] " + msg); } catch (e) {}
 }
 
-log("script cargado v1.2");
+log("script cargado v1.2 | horario " + HORA_INICIO.h + ":" + HORA_INICIO.m + " a " + HORA_FIN.h + ":" + HORA_FIN.m);
 
 // Obligatorio: indica a Outlook que el complemento terminó de inicializarse.
 // Sin esto, la página carga pero Outlook nunca llama al handler.
